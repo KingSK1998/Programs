@@ -1,0 +1,1 @@
+print('CCCCcheg IndiaCC'.strip('C').split(' ', 0))
